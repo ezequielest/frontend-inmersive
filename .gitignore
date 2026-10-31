@@ -1,0 +1,17 @@
+# Environment variables / Secrets
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing
+coverage/
+
+# Build artifacts
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
